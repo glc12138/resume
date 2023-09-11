@@ -241,7 +241,10 @@ publications:
 
 skills:
     title: 技能
-
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
     toolset:
       - name: Python
         level: 熟悉，导师教的课程是Python程序设计，做过一段时间的助教
