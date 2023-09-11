@@ -9,11 +9,11 @@ sidebar:
 
     # Profile information
     name: 李诚
-    tagline: 浙江工业大学物理学2021级硕士
+    tagline: 浙江工业大学\n物理学2021级硕士
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: glc12138@gmail.com
     phone: +86 18067958405
     timezone: #America/Cancun Timezone
     citizenship:
@@ -64,11 +64,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: 教育经历
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: 理学学士
+        university: 扬州大学
+        time: 2016 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: 理学硕士
+        university: 浙江工业大学
+        time: 2021 - 至今
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,11 +90,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: 工作经历
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 工艺工程师
+        time: 2020 - 2020
+        company: 扬州扬杰电子科技股份有限公司, 江苏扬州
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +107,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: 辅警内勤岗
+        time: 2020 - 2021
+        company: 江苏省宿迁市宿豫区化工园派出所
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -131,7 +131,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: 证书
       list:
         - name: CV Builder
           start: 2020
@@ -172,7 +172,7 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: 项目经历
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -218,7 +218,7 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 发表论文
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -240,20 +240,20 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 熟悉，导师教的课程是Python程序设计，做过一段时间的助教
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: shell & Linux
+        level: 熟悉
 
-      - name: Angular
-        level: 98%
+      - name: Julia & Matlab
+        level: 熟悉，硕士期间所有工作的计算都是基于julia语言
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 了解
 
       - name: Ruby on Rails
         level: 85%
