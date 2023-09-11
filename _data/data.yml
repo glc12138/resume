@@ -220,24 +220,17 @@ oss:
 publications:
     title: 发表论文
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      研究生期间已经跟随导师发表JCR二区top文章两篇，另外还有一篇文章在投。
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Energetic stability and spatial inhomogeneity in the local electronic structure of relaxed twisted trilayer graphene
+        link: "10.1103/PhysRevB.106.075423"
+        authors: Xianqing Lin, Cheng Li, Kelu Su, and Jun Ni
+        conference: Phys. Rev. B 106, 075423
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Collective excitations of the Chern-insulator states in commensurate double moiré superlattices of twisted bilayer graphene on hexagonal boron nitride
+        link: "10.1103/PhysRevB.107.195434"
+        authors: Xianqing Lin, Quan Zhou, Cheng Li, and Jun Ni
+        conference: Phys. Rev. B 107, 195434
 
 skills:
     title: 技能
